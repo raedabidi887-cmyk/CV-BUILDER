@@ -1,0 +1,95 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "Tous les templates",
+      "nameShort": "Tous",
+      "description": "Découvrez tous nos templates de CV professionnels",
+      "icon": "grid",
+      "color": "#6b7280",
+      "count": 10
+    },
+    {
+      "id": "professional",
+      "name": "Templates Professionnels",
+      "nameShort": "Professionnel",
+      "description": "Des designs classiques et élégants pour tous les secteurs d'activité",
+      "icon": "briefcase",
+      "color": "#2563eb",
+      "count": 3,
+      "recommended": ["classic", "professional", "two-column"]
+    },
+    {
+      "id": "creative",
+      "name": "Templates Créatifs",
+      "nameShort": "Créatif",
+      "description": "Pour les profils artistiques, designers et métiers créatifs",
+      "icon": "palette",
+      "color": "#7c3aed",
+      "count": 3,
+      "recommended": ["modern", "creative", "colorful"]
+    },
+    {
+      "id": "minimalist",
+      "name": "Templates Minimalistes",
+      "nameShort": "Minimaliste",
+      "description": "Épurés et faciles à lire, focus sur le contenu",
+      "icon": "minimize",
+      "color": "#059669",
+      "count": 2,
+      "recommended": ["clean", "minimalist"]
+    },
+    {
+      "id": "executive",
+      "name": "Templates Exécutifs",
+      "nameShort": "Exécutif",
+      "description": "Pour cadres supérieurs et postes de direction",
+      "icon": "star",
+      "color": "#dc2626",
+      "count": 1,
+      "recommended": ["executive"]
+    },
+    {
+      "id": "academic",
+      "name": "Templates Académiques",
+      "nameShort": "Académique",
+      "description": "Pour chercheurs, enseignants et profils universitaires",
+      "icon": "book",
+      "color": "#0891b2",
+      "count": 1,
+      "recommended": ["academic"]
+    }
+  ],
+  "filters": [
+    {
+      "id": "ats-friendly",
+      "name": "Compatible ATS",
+      "description": "Optimisé pour les systèmes de suivi des candidatures",
+      "icon": "check-circle"
+    },
+    {
+      "id": "one-page",
+      "name": "Une page",
+      "description": "CV tenant sur une seule page",
+      "icon": "file"
+    },
+    {
+      "id": "with-photo",
+      "name": "Avec photo",
+      "description": "Emplacement dédié pour votre photo",
+      "icon": "user"
+    },
+    {
+      "id": "colorful",
+      "name": "Coloré",
+      "description": "Designs avec accents de couleur",
+      "icon": "palette"
+    },
+    {
+      "id": "two-column",
+      "name": "Deux colonnes",
+      "description": "Mise en page sur deux colonnes",
+      "icon": "columns"
+    }
+  ]
+}

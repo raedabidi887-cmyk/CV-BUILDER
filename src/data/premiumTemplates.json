@@ -1,0 +1,199 @@
+{
+  "premiumFeatures": {
+    "unlimitedExports": {
+      "name": "Exports illimités",
+      "description": "Exportez votre CV autant de fois que vous le souhaitez en PDF haute qualité",
+      "icon": "download"
+    },
+    "allTemplates": {
+      "name": "Tous les templates",
+      "description": "Accès à l'intégralité de notre collection de templates premium",
+      "icon": "layout"
+    },
+    "customColors": {
+      "name": "Couleurs personnalisées",
+      "description": "Personnalisez les couleurs de votre CV selon votre charte graphique",
+      "icon": "palette"
+    },
+    "prioritySupport": {
+      "name": "Support prioritaire",
+      "description": "Assistance rapide et personnalisée par email",
+      "icon": "headphones"
+    },
+    "aiSuggestions": {
+      "name": "Suggestions IA",
+      "description": "Améliorez votre contenu avec l'intelligence artificielle",
+      "icon": "sparkles"
+    },
+    "coverLetters": {
+      "name": "Lettres de motivation",
+      "description": "Créez des lettres de motivation assorties à votre CV",
+      "icon": "mail"
+    }
+  },
+  "pricingPlans": [
+    {
+      "id": "free",
+      "name": "Gratuit",
+      "price": 0,
+      "currency": "€",
+      "period": "forever",
+      "description": "Pour commencer",
+      "features": [
+        "3 templates gratuits",
+        "1 export PDF par mois",
+        "Schémas de couleurs de base",
+        "Support communautaire"
+      ],
+      "limitations": [
+        "Templates premium verrouillés",
+        "Export limité",
+        "Filigrane sur les exports"
+      ],
+      "recommended": false
+    },
+    {
+      "id": "pro-monthly",
+      "name": "Pro",
+      "price": 9.99,
+      "currency": "€",
+      "period": "month",
+      "description": "Le plus populaire",
+      "features": [
+        "Tous les templates (10+)",
+        "Exports illimités",
+        "Toutes les couleurs personnalisées",
+        "Sans filigrane",
+        "Support prioritaire",
+        "Suggestions IA",
+        "Lettres de motivation"
+      ],
+      "limitations": [],
+      "recommended": true,
+      "savings": null
+    },
+    {
+      "id": "pro-yearly",
+      "name": "Pro Annuel",
+      "price": 79.99,
+      "currency": "€",
+      "period": "year",
+      "description": "Meilleure valeur",
+      "features": [
+        "Tous les templates (10+)",
+        "Exports illimités",
+        "Toutes les couleurs personnalisées",
+        "Sans filigrane",
+        "Support prioritaire",
+        "Suggestions IA",
+        "Lettres de motivation",
+        "Accès anticipé aux nouveautés"
+      ],
+      "limitations": [],
+      "recommended": false,
+      "savings": "33%"
+    }
+  ],
+  "premiumTemplates": [
+    {
+      "id": "two-column",
+      "unlockPrice": 4.99,
+      "features": [
+        "Mise en page deux colonnes",
+        "Gain d'espace optimal",
+        "Design structuré"
+      ]
+    },
+    {
+      "id": "creative",
+      "unlockPrice": 5.99,
+      "features": [
+        "Design artistique unique",
+        "Sections personnalisables",
+        "Idéal pour portfolio"
+      ]
+    },
+    {
+      "id": "executive",
+      "unlockPrice": 7.99,
+      "features": [
+        "Allure premium",
+        "Pour cadres supérieurs",
+        "Design prestigieux"
+      ]
+    },
+    {
+      "id": "colorful",
+      "unlockPrice": 4.99,
+      "features": [
+        "Accents de couleur dynamiques",
+        "Visuellement impactant",
+        "Mémorable"
+      ]
+    }
+  ],
+  "freeTemplates": [
+    "classic",
+    "clean",
+    "modern",
+    "professional",
+    "minimalist",
+    "academic"
+  ],
+  "trialInfo": {
+    "enabled": true,
+    "durationDays": 7,
+    "description": "Essayez gratuitement tous les templates premium pendant 7 jours, sans engagement",
+    "features": [
+      "Accès complet à tous les templates",
+      "Exports illimités",
+      "Aucune carte bancaire requise"
+    ]
+  },
+  "upgradePrompts": {
+    "templateLocked": {
+      "title": "Template Premium",
+      "message": "Ce template fait partie de notre collection premium. Passez à Pro pour y accéder.",
+      "cta": "Débloquer avec Pro"
+    },
+    "exportLimit": {
+      "title": "Limite d'export atteinte",
+      "message": "Vous avez atteint votre limite d'export mensuel. Passez à Pro pour des exports illimités.",
+      "cta": "Passer à Pro"
+    },
+    "customColors": {
+      "title": "Couleurs personnalisées",
+      "message": "Personnalisez les couleurs de votre CV avec un compte Pro.",
+      "cta": "Débloquer les couleurs"
+    }
+  },
+  "testimonials": [
+    {
+      "author": "Marie Dubois",
+      "role": "Marketing Manager",
+      "company": "Tech Startup",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "rating": 5,
+      "text": "Les templates premium ont complètement transformé mon CV. J'ai reçu 3x plus de réponses !",
+      "templateUsed": "executive"
+    },
+    {
+      "author": "Thomas Martin",
+      "role": "Designer UX/UI",
+      "company": "Agence Digital",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "rating": 5,
+      "text": "Le template créatif m'a permis de me démarquer. Design impeccable et professionnel.",
+      "templateUsed": "creative"
+    },
+    {
+      "author": "Sophie Bernard",
+      "role": "Chef de projet",
+      "company": "Grande Entreprise",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "rating": 5,
+      "text": "Interface intuitive, résultat professionnel. Le meilleur outil de création de CV que j'ai utilisé.",
+      "templateUsed": "two-column"
+    }
+  ]
+}

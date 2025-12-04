@@ -1,0 +1,19 @@
+{
+  "id": null,
+  "title": "My CV",
+  "template": "template1",
+  "personalInfo": {
+    "fullName": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "photo": null
+  },
+  "summary": "",
+  "experiences": [],
+  "education": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "projects": []
+}

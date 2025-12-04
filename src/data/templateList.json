@@ -1,0 +1,254 @@
+{
+  "templates": [
+    {
+      "id": "classic",
+      "name": "Classique",
+      "description": "Template traditionnel et professionnel, parfait pour tous les secteurs",
+      "category": "professional",
+      "isPremium": false,
+      "isPopular": true,
+      "thumbnail": "/template-thumbnails/classic-thumb.png",
+      "previewImage": "/template-previews/classic-preview.png",
+      "component": "ClassicTemplate",
+      "colorSchemes": ["blue", "gray", "black", "navy"],
+      "tags": ["simple", "ats-friendly", "corporate", "professionnel"],
+      "features": [
+        "Compatible ATS (système de suivi des candidatures)",
+        "Mise en page simple et claire",
+        "Idéal pour tous secteurs d'activité",
+        "Format une page optimisé"
+      ],
+      "bestFor": ["Tous secteurs", "Candidatures corporate", "Reconversion"],
+      "difficulty": "facile"
+    },
+    {
+      "id": "modern",
+      "name": "Moderne",
+      "description": "Design contemporain avec une touche créative et des sections colorées",
+      "category": "creative",
+      "isPremium": false,
+      "isPopular": true,
+      "thumbnail": "/template-thumbnails/modern-thumb.png",
+      "previewImage": "/template-previews/modern-preview.png",
+      "component": "ModernTemplate",
+      "colorSchemes": ["purple", "teal", "orange", "pink"],
+      "tags": ["moderne", "créatif", "design", "dynamique"],
+      "features": [
+        "Design élégant et contemporain",
+        "Sections avec accents de couleur",
+        "Parfait pour profils créatifs",
+        "Visuellement attractif"
+      ],
+      "bestFor": ["Marketing", "Design", "Communication", "Startups"],
+      "difficulty": "facile"
+    },
+    {
+      "id": "clean",
+      "name": "Épuré",
+      "description": "Minimaliste et facile à lire, met l'accent sur le contenu",
+      "category": "minimalist",
+      "isPremium": false,
+      "isPopular": false,
+      "thumbnail": "/template-thumbnails/clean-thumb.png",
+      "previewImage": "/template-previews/clean-preview.png",
+      "component": "CleanTemplate",
+      "colorSchemes": ["white", "lightgray", "blue"],
+      "tags": ["minimaliste", "simple", "épuré", "ats-friendly"],
+      "features": [
+        "Ultra lisible et clair",
+        "Espaces aérés pour respiration visuelle",
+        "Focus maximal sur le contenu",
+        "Design intemporel"
+      ],
+      "bestFor": ["Tech", "Finance", "Consulting", "Juridique"],
+      "difficulty": "très facile"
+    },
+    {
+      "id": "professional",
+      "name": "Professionnel",
+      "description": "Design corporate élégant avec ligne colorée distinctive",
+      "category": "professional",
+      "isPremium": false,
+      "isPopular": true,
+      "thumbnail": "/template-thumbnails/professional-thumb.png",
+      "previewImage": "/template-previews/professional-preview.png",
+      "component": "ProfessionalTemplate",
+      "colorSchemes": ["blue", "navy", "gray", "green"],
+      "tags": ["professionnel", "corporate", "élégant", "ats-friendly"],
+      "features": [
+        "Header avec ligne de couleur élégante",
+        "Mise en page structurée et professionnelle",
+        "Emplacement photo intégré",
+        "Icons pour contacts"
+      ],
+      "bestFor": ["Corporate", "Management", "Industrie", "Services"],
+      "difficulty": "facile"
+    },
+    {
+      "id": "minimalist",
+      "name": "Minimaliste",
+      "description": "Design épuré avec typographie moderne et espaces généreux",
+      "category": "minimalist",
+      "isPremium": false,
+      "isPopular": false,
+      "thumbnail": "/template-thumbnails/minimalist-thumb.png",
+      "previewImage": "/template-previews/minimalist-preview.png",
+      "component": "MinimalistTemplate",
+      "colorSchemes": ["black", "gray", "navy"],
+      "tags": ["minimaliste", "épuré", "moderne", "simple"],
+      "features": [
+        "Typographie soignée et moderne",
+        "Espaces généreux entre sections",
+        "Design zen et apaisant",
+        "Excellent pour la lecture"
+      ],
+      "bestFor": ["Architecture", "Design", "Photographie", "Consulting"],
+      "difficulty": "très facile"
+    },
+    {
+      "id": "academic",
+      "name": "Académique",
+      "description": "Format académique avec sections pour publications et recherches",
+      "category": "academic",
+      "isPremium": false,
+      "isPopular": false,
+      "thumbnail": "/template-thumbnails/academic-thumb.png",
+      "previewImage": "/template-previews/academic-preview.png",
+      "component": "AcademicTemplate",
+      "colorSchemes": ["traditional", "blue", "gray"],
+      "tags": ["recherche", "universitaire", "publications", "académique"],
+      "features": [
+        "Section dédiée aux publications",
+        "Format citations académiques",
+        "Espace pour recherches et projets",
+        "Style professionnel traditionnel"
+      ],
+      "bestFor": ["Recherche", "Enseignement", "Doctorat", "Post-doc"],
+      "difficulty": "intermédiaire"
+    },
+    {
+      "id": "two-column",
+      "name": "Deux Colonnes",
+      "description": "Maximise l'espace avec une mise en page intelligente sur deux colonnes",
+      "category": "professional",
+      "isPremium": true,
+      "isPopular": true,
+      "thumbnail": "/template-thumbnails/two-column-thumb.png",
+      "previewImage": "/template-previews/two-column-preview.png",
+      "component": "TwoColumnTemplate",
+      "colorSchemes": ["blue", "green", "navy", "purple"],
+      "tags": ["professionnel", "compact", "efficace", "deux-colonnes"],
+      "features": [
+        "Gain d'espace de 30% grâce aux colonnes",
+        "Structure claire et organisée",
+        "Visuellement équilibré et moderne",
+        "Sidebar pour compétences et langues"
+      ],
+      "bestFor": ["Tech", "Engineering", "Project Management", "Data"],
+      "difficulty": "intermédiaire"
+    },
+    {
+      "id": "creative",
+      "name": "Créatif",
+      "description": "Design artistique unique pour les profils créatifs et portfolios",
+      "category": "creative",
+      "isPremium": true,
+      "isPopular": true,
+      "thumbnail": "/template-thumbnails/creative-thumb.png",
+      "previewImage": "/template-previews/creative-preview.png",
+      "component": "CreativeTemplate",
+      "colorSchemes": ["gradient", "vibrant", "artistic", "rainbow"],
+      "tags": ["artistique", "original", "portfolio", "créatif"],
+      "features": [
+        "Design unique et mémorable",
+        "Sections hautement personnalisables",
+        "Idéal pour présenter des projets",
+        "Effets visuels modernes"
+      ],
+      "bestFor": ["Design graphique", "UX/UI", "Marketing créatif", "Arts"],
+      "difficulty": "avancé"
+    },
+    {
+      "id": "executive",
+      "name": "Exécutif",
+      "description": "Template premium pour cadres supérieurs et postes de direction",
+      "category": "executive",
+      "isPremium": true,
+      "isPopular": false,
+      "thumbnail": "/template-thumbnails/executive-thumb.png",
+      "previewImage": "/template-previews/executive-preview.png",
+      "component": "ExecutiveTemplate",
+      "colorSchemes": ["black", "darkblue", "gold", "burgundy"],
+      "tags": ["luxe", "cadre", "prestigieux", "professionnel"],
+      "features": [
+        "Allure professionnelle premium",
+        "Mise en valeur de l'expérience senior",
+        "Design élégant et sobre",
+        "Format exécutif reconnu"
+      ],
+      "bestFor": ["C-Level", "Direction", "Senior Management", "Consulting"],
+      "difficulty": "intermédiaire"
+    },
+    {
+      "id": "colorful",
+      "name": "Coloré",
+      "description": "Design dynamique et énergique avec accents de couleur vive",
+      "category": "creative",
+      "isPremium": true,
+      "isPopular": true,
+      "thumbnail": "/template-thumbnails/colorful-thumb.png",
+      "previewImage": "/template-previews/colorful-preview.png",
+      "component": "ColorfulTemplate",
+      "colorSchemes": ["rainbow", "warm", "cool", "vibrant"],
+      "tags": ["dynamique", "jeune", "énergique", "moderne"],
+      "features": [
+        "Visuellement impactant et mémorable",
+        "Parfait pour jeunes diplômés",
+        "Énergie et dynamisme",
+        "Se démarque instantanément"
+      ],
+      "bestFor": ["Junior", "Startups", "Event Management", "Sales"],
+      "difficulty": "facile"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "Tous",
+      "icon": "grid"
+    },
+    {
+      "id": "professional",
+      "name": "Professionnel",
+      "icon": "briefcase"
+    },
+    {
+      "id": "creative",
+      "name": "Créatif",
+      "icon": "palette"
+    },
+    {
+      "id": "minimalist",
+      "name": "Minimaliste",
+      "icon": "minimize"
+    },
+    {
+      "id": "executive",
+      "name": "Exécutif",
+      "icon": "star"
+    },
+    {
+      "id": "academic",
+      "name": "Académique",
+      "icon": "book"
+    }
+  ],
+  "stats": {
+    "totalTemplates": 10,
+    "freeTemplates": 6,
+    "premiumTemplates": 4,
+    "mostPopular": "modern",
+    "newestTemplate": "colorful",
+    "averageRating": 4.8
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "example1",
+    "title": "Software Engineer CV",
+    "personalInfo": {
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1 (555) 123-4567",
+      "location": "San Francisco, CA"
+    },
+    "summary": "Experienced Software Engineer with 5+ years of expertise in full-stack development, cloud architecture, and team leadership.",
+    "experiences": [
+      {
+        "id": 1,
+        "company": "Tech Corp",
+        "position": "Senior Software Engineer",
+        "startDate": "2021-01",
+        "endDate": "Present",
+        "description": "Led development of microservices architecture serving 10M+ users. Mentored junior developers and improved CI/CD pipelines."
+      },
+      {
+        "id": 2,
+        "company": "StartupXYZ",
+        "position": "Full Stack Developer",
+        "startDate": "2019-06",
+        "endDate": "2020-12",
+        "description": "Built React + Node.js applications from scratch. Reduced API response time by 40%."
+      }
+    ],
+    "education": [
+      {
+        "id": 1,
+        "school": "University of California",
+        "degree": "B.S. Computer Science",
+        "startDate": "2015-09",
+        "endDate": "2019-05"
+      }
+    ],
+    "skills": [
+      { "id": 1, "name": "JavaScript/TypeScript", "level": 5 },
+      { "id": 2, "name": "React", "level": 5 },
+      { "id": 3, "name": "Node.js", "level": 4 },
+      { "id": 4, "name": "AWS", "level": 4 }
+    ],
+    "languages": [
+      { "id": 1, "name": "English", "level": "Native" },
+      { "id": 2, "name": "Spanish", "level": "Intermediate" }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "Open Source CLI Tool",
+        "description": "Created popular npm package with 50K+ downloads"
+      }
+    ],
+    "interests": ["Machine Learning", "DevOps", "Mentoring"]
+  },
+  {
+    "id": "example2",
+    "title": "Marketing Manager CV",
+    "personalInfo": {
+      "fullName": "Sarah Johnson",
+      "email": "sarah.johnson@example.com",
+      "phone": "+1 (555) 987-6543",
+      "location": "New York, NY"
+    },
+    "summary": "Creative Marketing Manager with 7+ years driving brand growth and digital campaigns for Fortune 500 companies.",
+    "experiences": [
+      {
+        "id": 1,
+        "company": "Brand Marketing Inc",
+        "position": "Marketing Manager",
+        "startDate": "2020-03",
+        "endDate": "Present",
+        "description": "Managed $2M marketing budget. Increased brand awareness by 60% through integrated campaigns."
+      }
+    ],
+    "education": [
+      {
+        "id": 1,
+        "school": "Harvard University",
+        "degree": "MBA Marketing",
+        "startDate": "2015-09",
+        "endDate": "2017-05"
+      }
+    ],
+    "skills": [
+      { "id": 1, "name": "Digital Marketing", "level": 5 },
+      { "id": 2, "name": "Analytics", "level": 4 }
+    ],
+    "languages": [
+      { "id": 1, "name": "English", "level": "Native" },
+      { "id": 2, "name": "French", "level": "Fluent" }
+    ],
+    "projects": [],
+    "interests": ["Branding", "Content Strategy"]
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "tags": [
+    {
+      "id": "ats-friendly",
+      "name": "ATS-Friendly",
+      "description": "Compatible avec les systèmes de suivi des candidatures",
+      "category": "technical",
+      "color": "#10b981"
+    },
+    {
+      "id": "simple",
+      "name": "Simple",
+      "description": "Design épuré et facile à lire",
+      "category": "style",
+      "color": "#6b7280"
+    },
+    {
+      "id": "corporate",
+      "name": "Corporate",
+      "description": "Idéal pour les grandes entreprises",
+      "category": "industry",
+      "color": "#2563eb"
+    },
+    {
+      "id": "moderne",
+      "name": "Moderne",
+      "description": "Design contemporain et tendance",
+      "category": "style",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "créatif",
+      "name": "Créatif",
+      "description": "Pour les profils artistiques",
+      "category": "style",
+      "color": "#ec4899"
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "description": "Visuellement attractif",
+      "category": "style",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "minimaliste",
+      "name": "Minimaliste",
+      "description": "Épuré et essentiel",
+      "category": "style",
+      "color": "#059669"
+    },
+    {
+      "id": "épuré",
+      "name": "Épuré",
+      "description": "Sans fioritures",
+      "category": "style",
+      "color": "#14b8a6"
+    },
+    {
+      "id": "professionnel",
+      "name": "Professionnel",
+      "description": "Sérieux et crédible",
+      "category": "tone",
+      "color": "#1e40af"
+    },
+    {
+      "id": "compact",
+      "name": "Compact",
+      "description": "Maximise l'espace disponible",
+      "category": "layout",
+      "color": "#7c2d12"
+    },
+    {
+      "id": "efficace",
+      "name": "Efficace",
+      "description": "Va droit au but",
+      "category": "tone",
+      "color": "#4338ca"
+    },
+    {
+      "id": "artistique",
+      "name": "Artistique",
+      "description": "Expression créative",
+      "category": "style",
+      "color": "#db2777"
+    },
+    {
+      "id": "original",
+      "name": "Original",
+      "description": "Se démarque des autres",
+      "category": "tone",
+      "color": "#9333ea"
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "description": "Idéal pour présenter des projets",
+      "category": "industry",
+      "color": "#ea580c"
+    },
+    {
+      "id": "luxe",
+      "name": "Luxe",
+      "description": "Élégance premium",
+      "category": "tone",
+      "color": "#991b1b"
+    },
+    {
+      "id": "cadre",
+      "name": "Cadre",
+      "description": "Pour postes de direction",
+      "category": "industry",
+      "color": "#b91c1c"
+    },
+    {
+      "id": "prestigieux",
+      "name": "Prestigieux",
+      "description": "Haut de gamme",
+      "category": "tone",
+      "color": "#7f1d1d"
+    },
+    {
+      "id": "recherche",
+      "name": "Recherche",
+      "description": "Pour le milieu académique",
+      "category": "industry",
+      "color": "#0e7490"
+    },
+    {
+      "id": "universitaire",
+      "name": "Universitaire",
+      "description": "Format académique",
+      "category": "industry",
+      "color": "#0369a1"
+    },
+    {
+      "id": "publications",
+      "name": "Publications",
+      "description": "Section dédiée aux publications",
+      "category": "feature",
+      "color": "#075985"
+    },
+    {
+      "id": "dynamique",
+      "name": "Dynamique",
+      "description": "Énergique et vivant",
+      "category": "tone",
+      "color": "#ea580c"
+    },
+    {
+      "id": "jeune",
+      "name": "Jeune",
+      "description": "Pour jeunes diplômés",
+      "category": "audience",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "énergique",
+      "name": "Énergique",
+      "description": "Plein de vitalité",
+      "category": "tone",
+      "color": "#d97706"
+    },
+    {
+      "id": "deux-colonnes",
+      "name": "Deux Colonnes",
+      "description": "Layout sur 2 colonnes",
+      "category": "layout",
+      "color": "#4f46e5"
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "description": "Secteur technologique",
+      "category": "industry",
+      "color": "#6366f1"
+    },
+    {
+      "id": "startup",
+      "name": "Startup",
+      "description": "Environnement startup",
+      "category": "industry",
+      "color": "#8b5cf6"
+    }
+  ],
+  "tagCategories": [
+    {
+      "id": "style",
+      "name": "Style",
+      "description": "Apparence visuelle du template"
+    },
+    {
+      "id": "tone",
+      "name": "Ton",
+      "description": "Personnalité du CV"
+    },
+    {
+      "id": "layout",
+      "name": "Mise en page",
+      "description": "Organisation du contenu"
+    },
+    {
+      "id": "industry",
+      "name": "Secteur",
+      "description": "Domaine d'activité ciblé"
+    },
+    {
+      "id": "audience",
+      "name": "Public",
+      "description": "Profil du candidat"
+    },
+    {
+      "id": "feature",
+      "name": "Fonctionnalité",
+      "description": "Caractéristiques spéciales"
+    },
+    {
+      "id": "technical",
+      "name": "Technique",
+      "description": "Aspects techniques"
+    }
+  ]
+}
